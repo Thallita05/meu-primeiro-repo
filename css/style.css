@@ -5,8 +5,8 @@
    ========================================================= */
 
 :root {
-  --cor-primaria: #1d4ed8;      /* Azul principal (mude para a cor da profissão!) */
-  --cor-primaria-escura: #1e3a8a;
+  --cor-primaria: #e7b774;      /* Azul principal (mude para a cor da profissão!) */
+  --cor-primaria-escura: #ff6600;
   --cor-destaque: #0ea5e9;
   --cor-fundo: #ffffff;
   --cor-fundo-suave: #f1f5f9;
@@ -280,7 +280,7 @@ body {
 
 /* Rodapé */
 .rodape {
-  background-color: #0f172a;
+  background-color: #ff0000;
   color: #cbd5e1;
   text-align: center;
   padding: 24px 0;
